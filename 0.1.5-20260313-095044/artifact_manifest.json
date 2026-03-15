@@ -1,0 +1,46 @@
+﻿{
+    "generatedAtUtc":  "2026-03-13T09:51:10.8315900Z",
+    "productName":  "Honey Hash Wallet",
+    "version":  "0.1.5",
+    "bundleIdentifier":  "com.honeyhash.wallet",
+    "bundleSource":  "C:\\Users\\USER-\\RustroverProjects\\HNH_Honey_Pot\\src-tauri\\target\\release\\bundle",
+    "stageRoot":  "C:\\Users\\USER-\\RustroverProjects\\HNH_Honey_Pot\\release\\h2\\0.1.5-20260313-095044",
+    "files":  [
+                  {
+                      "relativePath":  "bundle\\msi\\Honey Hash Wallet_0.1.5_x64_en-US.msi",
+                      "sizeBytes":  5148672,
+                      "sha256":  "f9f141e8c3f1909a587cb94c75f3cf4f18a5ced97d8da5f95ac1d97523355035",
+                      "lastWriteTimeUtc":  "2026-03-13T09:50:59.0360000Z"
+                  },
+                  {
+                      "relativePath":  "bundle\\msi\\Honey Hash Wallet_0.1.5_x64_en-US.msi.zip",
+                      "sizeBytes":  5148844,
+                      "sha256":  "a4b69d53a4602c3a95ea18e541360e98f5179158b10b596b1ddcedde89aa49f3",
+                      "lastWriteTimeUtc":  "2026-03-13T09:51:05.0592934Z"
+                  },
+                  {
+                      "relativePath":  "bundle\\msi\\Honey Hash Wallet_0.1.5_x64_en-US.msi.zip.sig",
+                      "sizeBytes":  436,
+                      "sha256":  "9f26fdb4d40fd46d0716a975f0ff31bdbd4bf20ee10254f0bd4154b18504f36f",
+                      "lastWriteTimeUtc":  "2026-03-13T09:51:10.6820785Z"
+                  },
+                  {
+                      "relativePath":  "bundle\\nsis\\Honey Hash Wallet_0.1.5_x64-setup.exe",
+                      "sizeBytes":  3234825,
+                      "sha256":  "5a8915ac463305bab75dd700806d434139d981ee722a4029d1bef7ee550b550e",
+                      "lastWriteTimeUtc":  "2026-03-13T09:51:05.0283016Z"
+                  },
+                  {
+                      "relativePath":  "bundle\\nsis\\Honey Hash Wallet_0.1.5_x64-setup.nsis.zip",
+                      "sizeBytes":  3234997,
+                      "sha256":  "79904e1718224b7e22973b5599686e3f038c6c36d9a98a3fb583d0c25b005b62",
+                      "lastWriteTimeUtc":  "2026-03-13T09:51:05.0732939Z"
+                  },
+                  {
+                      "relativePath":  "bundle\\nsis\\Honey Hash Wallet_0.1.5_x64-setup.nsis.zip.sig",
+                      "sizeBytes":  436,
+                      "sha256":  "0198abe2185dc03f1442997189f6eb08f004e1e2661076bcf57b909341f09d3f",
+                      "lastWriteTimeUtc":  "2026-03-13T09:51:10.6850874Z"
+                  }
+              ]
+}

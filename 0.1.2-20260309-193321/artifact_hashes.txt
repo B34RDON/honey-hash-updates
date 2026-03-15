@@ -1,0 +1,2 @@
+﻿f2ce6a705924a9ce745490aefafd20e814f236e556845bdbf68bcb259fcf5c6d  bundle\msi\Honey Hash Wallet_0.1.2_x64_en-US.msi
+a0c2a922e8f187209a62432212b067a85f0bfc11e52b0891d5c9f033cb96da20  bundle\nsis\Honey Hash Wallet_0.1.2_x64-setup.exe

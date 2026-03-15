@@ -1,0 +1,22 @@
+﻿{
+    "generatedAtUtc":  "2026-03-09T19:34:34.1931538Z",
+    "productName":  "Honey Hash Wallet",
+    "version":  "0.1.2",
+    "bundleIdentifier":  "com.honeyhash.wallet",
+    "bundleSource":  "C:\\Users\\USER-\\RustroverProjects\\HNH_Honey_Pot\\src-tauri\\target\\release\\bundle",
+    "stageRoot":  "C:\\Users\\USER-\\RustroverProjects\\HNH_Honey_Pot\\release\\h2\\0.1.2-20260309-193321",
+    "files":  [
+                  {
+                      "relativePath":  "bundle\\msi\\Honey Hash Wallet_0.1.2_x64_en-US.msi",
+                      "sizeBytes":  3702784,
+                      "sha256":  "f2ce6a705924a9ce745490aefafd20e814f236e556845bdbf68bcb259fcf5c6d",
+                      "lastWriteTimeUtc":  "2026-03-09T19:34:27.3320000Z"
+                  },
+                  {
+                      "relativePath":  "bundle\\nsis\\Honey Hash Wallet_0.1.2_x64-setup.exe",
+                      "sizeBytes":  2497457,
+                      "sha256":  "a0c2a922e8f187209a62432212b067a85f0bfc11e52b0891d5c9f033cb96da20",
+                      "lastWriteTimeUtc":  "2026-03-09T19:34:34.0463494Z"
+                  }
+              ]
+}

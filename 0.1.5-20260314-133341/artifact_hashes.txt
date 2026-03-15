@@ -1,0 +1,6 @@
+﻿73ef43b03f722712cdd0bd1ce168241ab31c039090c965cea403838c55cd9aaa  bundle\msi\Honey Hash Wallet_0.1.5_x64_en-US.msi
+126f4124158911b2cdf5ed22716eef4cf0136073c4e6764cf90d0004bbc14c57  bundle\msi\Honey Hash Wallet_0.1.5_x64_en-US.msi.zip
+95efd6e6886a79c0e491ff9e17f943c4d5fea03780df47240444679c3ab817ee  bundle\msi\Honey Hash Wallet_0.1.5_x64_en-US.msi.zip.sig
+9444f41738eddf692ef6603acc69cd9e7cd84436f2ab7db8b1233216dffcae02  bundle\nsis\Honey Hash Wallet_0.1.5_x64-setup.exe
+997c3e3cfd2882cb3e272cc6646f383d45c519d2ce3d4385c7484ff8245852ee  bundle\nsis\Honey Hash Wallet_0.1.5_x64-setup.nsis.zip
+e3fc7cca9970468607413a34e1b50676b1207d68654abb9296a6bc1d917adb95  bundle\nsis\Honey Hash Wallet_0.1.5_x64-setup.nsis.zip.sig

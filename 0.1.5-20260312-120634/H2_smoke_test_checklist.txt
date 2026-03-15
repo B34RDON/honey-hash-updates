@@ -1,0 +1,55 @@
+H2 SMOKE TEST CHECKLIST
+=======================
+
+Goal
+----
+Verify the packaged Honey Hash Wallet installer/build behaves like the current green dev build.
+
+Pre-build
+---------
+[ ] src-tauri/tauri.conf.json version is correct for this release
+[ ] All icon paths referenced by tauri.conf.json exist
+[ ] Wallet opens cleanly in cargo tauri dev
+[ ] Miner opens from Home
+[ ] Miner opens from tray
+[ ] State loads from AppData
+
+Bundle output
+-------------
+[ ] cargo tauri build succeeds
+[ ] target/release/bundle exists
+[ ] release/h2/<version-timestamp>/bundle exists
+[ ] artifact_hashes.txt exists
+[ ] artifact_manifest.json exists
+
+Fresh install test
+------------------
+[ ] Install the produced Windows bundle/installer
+[ ] Launch app from Start Menu / installer shortcut
+[ ] Wallet opens once
+[ ] Tray icon appears
+[ ] Open Miner works
+[ ] Hide All works
+[ ] Quit BeeKeeper exits cleanly
+
+Persistence test
+----------------
+[ ] Height / HNH / peers survive relaunch
+[ ] hnh_state.json still loads from AppData
+[ ] hnh_state.snapshots.json still valid
+[ ] G1 storage status remains OK
+[ ] G2 write mode still shows ATOMIC SWAP V1
+
+Upgrade test
+------------
+[ ] Install new build over previous installed build (or uninstall/reinstall if preferred)
+[ ] Existing AppData state is preserved
+[ ] Wallet still loads real state, not genesis
+[ ] Miner still opens after upgrade
+
+Release handoff
+---------------
+[ ] Record bundle filename(s)
+[ ] Record version number
+[ ] Record SHA256 hashes
+[ ] Fill in release notes template
